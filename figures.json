@@ -1,0 +1,180 @@
+{
+  "figmaFileKey": "62z16EXydNLBMnICP3x61C",
+  "figures": [
+    {
+      "figure": 1,
+      "title": "User registration",
+      "figmaNodeId": "33:1665",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=33-1665",
+      "image": "assets/figure-01.png"
+    },
+    {
+      "figure": 2,
+      "title": "User login",
+      "figmaNodeId": "33:1666",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=33-1666",
+      "image": "assets/user-login.png"
+    },
+    {
+      "figure": 3,
+      "title": "Employee dashboard",
+      "figmaNodeId": "34:1903",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=34-1903",
+      "image": "assets/figure-03.png"
+    },
+    {
+      "figure": 4,
+      "title": "Leave application overview",
+      "figmaNodeId": "33:1663",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=33-1663",
+      "image": "assets/figure-04.png"
+    },
+    {
+      "figure": 5,
+      "title": "Annual leave application form",
+      "figmaNodeId": "33:1667",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=33-1667",
+      "image": "assets/figure-05.png"
+    },
+    {
+      "figure": 6,
+      "title": "Leave application confirmation",
+      "figmaNodeId": "33:1668",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=33-1668",
+      "image": "assets/figure-06.png"
+    },
+    {
+      "figure": 7,
+      "title": "Leave recall",
+      "figmaNodeId": "33:1670",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=33-1670",
+      "image": "assets/figure-07.png"
+    },
+    {
+      "figure": 8,
+      "title": "Profile — personal details",
+      "figmaNodeId": "37:9010",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=37-9010",
+      "image": "assets/figure-08.png"
+    },
+    {
+      "figure": 9,
+      "title": "Frame 9",
+      "figmaNodeId": "37:9011",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=37-9011",
+      "image": null
+    },
+    {
+      "figure": 10,
+      "title": "Frame 10",
+      "figmaNodeId": "37:9012",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=37-9012",
+      "image": null
+    },
+    {
+      "figure": 11,
+      "title": "Profile — document uploads",
+      "figmaNodeId": "37:9013",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=37-9013",
+      "image": "assets/figure-11.png"
+    },
+    {
+      "figure": 12,
+      "title": "Profile — financial details",
+      "figmaNodeId": "37:9014",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=37-9014",
+      "image": "assets/figure-12.png"
+    },
+    {
+      "figure": 13,
+      "title": "Frame 13",
+      "figmaNodeId": "41:422",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=41-422",
+      "image": null
+    },
+    {
+      "figure": 14,
+      "title": "Admin — employee personal details",
+      "figmaNodeId": "41:423",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=41-423",
+      "image": "assets/figure-14.png"
+    },
+    {
+      "figure": 15,
+      "title": "Frame 15",
+      "figmaNodeId": "41:424",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=41-424",
+      "image": null
+    },
+    {
+      "figure": 16,
+      "title": "Admin — employee educational qualifications",
+      "figmaNodeId": "41:425",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=41-425",
+      "image": "assets/figure-16.png"
+    },
+    {
+      "figure": 17,
+      "title": "Admin — employee documents",
+      "figmaNodeId": "41:426",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=41-426",
+      "image": "assets/figure-17.png"
+    },
+    {
+      "figure": 18,
+      "title": "Frame 18",
+      "figmaNodeId": "41:427",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=41-427",
+      "image": null
+    },
+    {
+      "figure": 19,
+      "title": "Frame 19",
+      "figmaNodeId": "41:428",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=41-428",
+      "image": null
+    },
+    {
+      "figure": 20,
+      "title": "Frame 20",
+      "figmaNodeId": "41:429",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=41-429",
+      "image": null
+    },
+    {
+      "figure": 21,
+      "title": "Frame 21",
+      "figmaNodeId": "41:430",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=41-430",
+      "image": null
+    },
+    {
+      "figure": 22,
+      "title": "Frame 22",
+      "figmaNodeId": "41:431",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=41-431",
+      "image": null
+    },
+    {
+      "figure": 23,
+      "title": "Administrator dashboard",
+      "figmaNodeId": "41:432",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=41-432",
+      "image": "assets/admin-dashboard.png"
+    },
+    {
+      "figure": 24,
+      "title": "21 new-01 (1) 1",
+      "figmaNodeId": "41:97",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=41-97",
+      "image": null
+    },
+    {
+      "figure": 25,
+      "title": "login-01 1",
+      "figmaNodeId": "41:13",
+      "figmaUrl": "https://www.figma.com/design/62z16EXydNLBMnICP3x61C/Employee-Management-System?node-id=41-13",
+      "image": null
+    }
+  ]
+}
